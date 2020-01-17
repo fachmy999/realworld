@@ -1,0 +1,43 @@
+{
+  "bundler": "rollup",
+  "shimport": "1.0.1",
+  "assets": {
+    "main": "client.055b5ec7.js"
+  },
+  "css": {
+    "main": "main.2596787682.css",
+    "chunks": {
+      "index.svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "register/index.svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "settings/index.svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "article/[slug].svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "profile/index.svelte": [],
+      "profile/[user]/index.svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "profile/[user]/[view].svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "editor/index.svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "editor/[slug].svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "login/index.svelte": [
+        "chunk.78ecd290.css"
+      ],
+      "[p].svelte": [
+        "chunk.78ecd290.css"
+      ]
+    }
+  }
+}
